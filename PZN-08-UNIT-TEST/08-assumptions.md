@@ -109,4 +109,4 @@ class CalculatorTest {
 
 ## Hasilnya
 
-![](assets\17-hasil-assum-true.jpg)
+![](.\assets\17-hasil-assum-true.jpg)
