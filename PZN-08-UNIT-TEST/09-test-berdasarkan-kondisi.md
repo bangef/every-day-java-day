@@ -60,7 +60,7 @@ class ConditionalOsTest {
 
 ## Hasilnya
 
-![](assets\18-conditionalOsTest.png)
+![](./assets/18-conditionalOsTest.png)
 
 ## Kondisi Versi Java
 
