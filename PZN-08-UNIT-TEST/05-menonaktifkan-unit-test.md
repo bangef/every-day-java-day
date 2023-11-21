@@ -63,4 +63,4 @@ class CalculatorTest {
 
 ## Hasilnya
 
-![](F:\JAVA\01-MATERI\PZN-08-UNIT-TEST\assets\13-disabled.png)
+![](assets\13-disabled.png)

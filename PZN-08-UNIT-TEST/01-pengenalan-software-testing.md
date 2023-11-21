@@ -8,7 +8,7 @@
 
 ## Test Pyramid
 
-![](C:\Users\ficrihnp\AppData\Roaming\marktext\images\2023-11-20-08-37-22-image.png)
+![](assets\01-test-pyramid.png)
 
 - Makin keatas makin lambat dalam hal testing dan makin memakan biaya.
 
@@ -24,15 +24,15 @@
 
 ## UI / End to End Test `(Contoh test ketika aplikasi sudah di deploy dan pengetesan langsung dengan user)`
 
-![](F:\JAVA\01-MATERI\PZN-08-UNIT-TEST\assets\03-end-to-end-test.png)
+![](assets\03-end-to-end-test.png)
 
 ## Service Test `(Contoh test menggunakan Potman, Insomnia)`
 
-![](F:\JAVA\01-MATERI\PZN-08-UNIT-TEST\assets\04-service-test.png)
+![](assets\04-service-test.png)
 
 ## Unit Test
 
-![](F:\JAVA\01-MATERI\PZN-08-UNIT-TEST\assets\05-unit-test.png)
+![](assets\05-unit-test.png)
 
 ## Unit Test
 

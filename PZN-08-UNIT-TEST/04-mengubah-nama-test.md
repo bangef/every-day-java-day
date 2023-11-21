@@ -45,7 +45,6 @@ class CalculatorTest {
     });
   }
 }
-
 ```
 
 - Outputnya akan merubah deskripsi namenya, seperti ini:
@@ -124,7 +123,6 @@ class CalculatorTest {
   ```
   
   ```java
-  
   import latiha.unittesting.app.generator.SimpleDisplayNameGenerator;
   
   @DisplayNameGeneration(value = SimpleDisplayNameGenerator.class)

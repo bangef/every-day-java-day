@@ -98,4 +98,4 @@ class CalculatorTest {
 
 ## Hasilnya
 
-![](F:\JAVA\01-MATERI\PZN-08-UNIT-TEST\assets\16-hasil-testabortedexception.jpg)
+![](assets\16-hasil-testabortedexception.jpg)

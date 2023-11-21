@@ -84,7 +84,7 @@ class CalculatorTest {
 
 ## Hasilnya
 
-![](F:\JAVA\01-MATERI\PZN-08-UNIT-TEST\assets\14-beforeeach-aftereach.jpg)
+![](assets\14-beforeeach-aftereach.jpg)
 
 - Hasilnya method `setUp()` dan `tearDown()` akan selalu dijalankan apabila meng-test semua test yang ada didalam class tersebut.
 
@@ -182,4 +182,4 @@ class CalculatorTest {
 
 ## Hasilnya
 
-![](F:\JAVA\01-MATERI\PZN-08-UNIT-TEST\assets\15-hasil-beforeall-afterall.jpg)
+![](assets\15-hasil-beforeall-afterall.jpg)

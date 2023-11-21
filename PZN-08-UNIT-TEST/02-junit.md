@@ -22,7 +22,7 @@ maven-archetype-quickstart
 
 - Hapus file `test` yang ada di dalam scope test project.
 
-![](F:\JAVA\01-MATERI\PZN-08-UNIT-TEST\assets\06-junit-setting.png)
+![](assets\06-junit-setting.png)
 
 ## Implementasi Simple Test Junit 5
 

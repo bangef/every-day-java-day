@@ -109,4 +109,4 @@ class CalculatorTest {
 
 ## Hasilnya
 
-![](F:\JAVA\01-MATERI\PZN-08-UNIT-TEST\assets\17-hasil-assum-true.jpg)
+![](assets\17-hasil-assum-true.jpg)
