@@ -60,7 +60,7 @@ class ConditionalOsTest {
 
 ## Hasilnya
 
-![](assets\18-conditionalOsTest.png)
+![](./assets/18-conditionalOsTest.png)
 
 ## Kondisi Versi Java
 
@@ -121,7 +121,7 @@ class ConditionalJreTest {
 
 ## Hasilnya
 
-![](assets\19-conditionalJreTest.jpg)
+![](./assets/19-conditionalJreTest.jpg)
 
 ## Kondisi System Property
 
@@ -174,7 +174,7 @@ class ConditionalPropertyTest {
 
 ## Hasilnya
 
-![](F:\JAVA\01-MATERI\PZN-08-UNIT-TEST\assets\20-conditionalIfSystemPropertiesTest.jpg)
+![](./assets/20-conditionalIfSystemPropertiesTest.jpg)
 
 ## Kondisi Environment Variable
 
@@ -229,9 +229,8 @@ class ConditionalEnvirontmentTest {
   }
 
 }
-
 ```
 
 ## Hasilnya
 
-![](assets\21-conditionalIfSystemEnvironmentTest.jpg)
+![](./assets/21-conditionalIfSystemEnvironmentTest.jpg)
